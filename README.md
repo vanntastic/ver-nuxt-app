@@ -1,5 +1,7 @@
 # ver-nuxt-app
 
+A simple app that I'm test web IDE's out with
+
 ## Build Setup
 
 ```bash
